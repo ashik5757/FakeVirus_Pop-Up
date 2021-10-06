@@ -8,6 +8,7 @@ If you want to block the close option, just change this particular line in Frame
     this.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
 
 
+
 <br/>
 
 ## Screenshot :
