@@ -1,6 +1,14 @@
 # FakeVirus_Pop-Up
 This is fake virus pop up java swing program.
 
+<br/>
+
+If you want to block the close option, just change this particular line in Frame class.
+
+    this.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
+
+
+<br/>
 
 ## Screenshot :
 
